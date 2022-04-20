@@ -24,7 +24,7 @@ https://www.terraform.io/downloads
 
 ### Clone this repository:
 
-`$ git clone https://github.com/charandesuri/suprhasvc_task.git`
+`$ git clone https://github.com/charandesuri/terraform-assignment.git`
 
 ### change directory: 
 
