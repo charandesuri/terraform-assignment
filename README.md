@@ -28,7 +28,7 @@ https://www.terraform.io/downloads
 
 ### change directory: 
 
-`$ cd cd suprhasvc_task`
+`$ cd cd terraform-assignment`
 
 ### Initialize terraform
 
